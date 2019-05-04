@@ -1,3 +1,4 @@
+/*Styles*/
 * {
   box-model: border-box;
 }
@@ -92,7 +93,6 @@ span {
   letter-spacing: 0.025em;
 }
 
-/*Styles*/
 /*
 
 body {
