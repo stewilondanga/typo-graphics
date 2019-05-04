@@ -134,7 +134,7 @@ h1 {
   font-size: 32px;
 }
 
-/*h2 {
+h2 {
   display: block;
   padding-bottom: 15px;
   text-transform: uppercase;
@@ -145,7 +145,7 @@ h1 {
   margin: 0;
 }
 
-p {
+/*p {
   padding: 0;
   margin: 0;
 }
