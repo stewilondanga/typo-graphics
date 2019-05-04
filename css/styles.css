@@ -57,11 +57,11 @@
 }
 
 /*Line-height */
-/*.line-height.small {
+.line-height.small {
   line-height: 0.9;
 }
 
-.line-height.medium {
+/*.line-height.medium {
   line-height: 1.3;
 }
 
