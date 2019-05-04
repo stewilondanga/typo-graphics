@@ -188,9 +188,7 @@ p.intro:last-of-type {
   }
 }
 
-/*
 @media screen and (max-width: 680px) {
-
   body {
     padding: 35px;
   }
@@ -204,10 +202,9 @@ p.intro:last-of-type {
   h1 {
     padding: 10px 0;
   }
-
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
