@@ -74,11 +74,11 @@
   text-align: left;
 }
 
-/*.justified {
+.justified {
   text-align: justify;
 }
 
-.justified-hyphen {
+/*.justified-hyphen {
   text-align: justify;
   hyphens: auto;
 }
