@@ -28,12 +28,12 @@
 }
 
 /*Letter-spacing*/
-/*.letter-spacing.small,
+.letter-spacing.small,
 .letter-spacing.small span {
   letter-spacing: -0.05em;
 }
 
-.letter-spacing.medium,
+/*.letter-spacing.medium,
 .letter-spacing.medium span {
   letter-spacing: 0;
 }
