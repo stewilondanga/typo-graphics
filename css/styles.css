@@ -101,9 +101,6 @@ span {
   letter-spacing: 0.025em;
 }
 
-/*
-
-
 .wrapper {
   width: 1080px;
   border-top: 2px solid #efefef;
@@ -111,7 +108,7 @@ span {
   margin: 0 auto;
 }
 
-.wrapper:after {
+/*.wrapper:after {
   content: "";
   display: table;
   clear: both;
