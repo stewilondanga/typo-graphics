@@ -108,13 +108,13 @@ span {
   margin: 0 auto;
 }
 
-/*.wrapper:after {
+.wrapper:after {
   content: "";
   display: table;
   clear: both;
 }
 
-.wrapper div {
+/*.wrapper div {
   width: 300px;
   padding-right: 60px;
   padding-top: 30px;
