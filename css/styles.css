@@ -3,6 +3,14 @@
   box-model: border-box;
 }
 
+body {
+  font-size: 16px;
+  font-family: 'Cormorant Garamond', serif;
+  line-height: 1.3;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
 .my_social {
   position: absolute;
   top: 25px;
@@ -95,13 +103,6 @@ span {
 
 /*
 
-body {
-  font-size: 16px;
-  font-family: 'Cormorant Garamond', serif;
-  line-height: 1.3;
-  font-weight: 400;
-  letter-spacing: 0;
-}
 
 .wrapper {
   width: 1080px;
