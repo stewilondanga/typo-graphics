@@ -15,11 +15,11 @@
 
 /*Let's play!*/
 /*Font-weight*/
-/*.font-weight.small {
+.font-weight.small {
   font-weight: 300;
 }
 
-.font-weight.medium {
+/*.font-weight.medium {
   font-weight: 400;
 }
 
