@@ -33,12 +33,12 @@
   letter-spacing: -0.05em;
 }
 
-/*.letter-spacing.medium,
+.letter-spacing.medium,
 .letter-spacing.medium span {
   letter-spacing: 0;
 }
 
-.letter-spacing.large,
+/*.letter-spacing.large,
 .letter-spacing.large span {
   letter-spacing: 0.3em;
 }
