@@ -44,11 +44,11 @@
 }
 
 /*Word-spacing*/
-/*.word-spacing.small {
+.word-spacing.small {
   word-spacing: -0.2em;
 }
 
-.word-spacing.medium {
+/*.word-spacing.medium {
   word-spacing: 0em;
 }
 
