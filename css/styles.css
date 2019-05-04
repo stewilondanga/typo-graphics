@@ -150,14 +150,14 @@ p {
   margin: 0;
 }
 
-/*p.intro {
+p.intro {
   max-width: 1080px;
   margin: 0 auto;
   padding-bottom: 12px;
   font-size: 24px;
 }
 
-p.intro:first-of-type {
+/*p.intro:first-of-type {
   padding-top: 100px;
 }
 
